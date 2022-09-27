@@ -1,0 +1,57 @@
+Somewhere between @State and @ObservedObject lies @StateObject. This is a specialized version of @ObservedObject, and it works in almost exactly the same way: you must conform to the ObservableObject protocol, you can use @Published to mark properties as causing change notifications, and any views that watch an @StateObject will refresh their body when the object changes.
+
+
+There is one important difference between @StateObject and @ObservedObject, which is ownership – which view created the object, and which view is just watching it.
+
+The rule is this: whichever view is the first to create your object must use @StateObject, to tell SwiftUI it is the owner of the data and is responsible for keeping it alive. All other views must use @ObservedObject, to tell SwiftUI they want to watch the object for changes but don’t own it directly.
+
+import SwiftUI
+
+struct ContentView: View {
+    //owner which owns the object will be responsible to make it alive
+    @StateObject var test : Test
+    @State private var isPresented : Bool = false
+    var body: some View {
+        Button {
+            print("hello")
+            test.x += 1
+            isPresented = true
+        } label: {
+            Text("Count \(test.x)")
+        }
+        
+        .sheet(isPresented: $isPresented, content: {
+            ContentView2(test: test)
+        })
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView(test: Test(x: 1))
+    }
+}
+
+
+
+class Test : ObservableObject {
+    @Published var x : Int
+    
+    init(x: Int) {
+        self.x = x
+    }
+}
+
+struct ContentView2: View {
+    //just viewer of value from ancestor
+    @ObservedObject var test : Test
+    var body: some View {
+        Text("Content View 2 and value is \(test.x)")
+    }
+}
+
+struct ContentView2_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView2(test: Test(x: 0))
+    }
+}
