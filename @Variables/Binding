@@ -1,0 +1,127 @@
+@Binding lets us declare that one value actually comes from elsewhere, and should be shared in both places. This is not the same as @ObservedObject or @EnvironmentObject, both of which are designed for reference types to be shared across potentially many views.
+
+For example, we might have a ContentView with an @State property storing whether a child view is being presented or not, like this:
+
+struct ContentView: View {
+    @State private var showingAddUser = false
+
+    var body: some View {
+        VStack {
+            // your code here
+        }
+        .sheet(isPresented: $showingAddUser) {
+            // show the add user view
+        }
+    }
+}
+
+That uses showingAddUser for the isPresented parameter of our sheet, which means when that Boolean becomes true the add user view will be shown. However, how can we allow the add user view to dismiss itself if it needs to – if the user taps a Done button, for example?
+
+What we want to happen is for the add user view to set showingAddUser back to false, which will cause ContentView to hide it. This is exactly what @Binding is for: it lets us create a property in the add user view that says “this value will be provided from elsewhere, and will be shared between us and that other place.”
+
+So, we might create an add user view like this:
+
+struct AddView: View {
+    @Binding var isPresented: Bool
+
+    var body: some View {
+        Button("Dismiss") {
+            isPresented = false
+        }
+    }
+}
+
+That property literally means “I have a Boolean value called isPresented, but it’s being stored elsewhere.” So, when we create that AddView to replace the // show the add user view comment from earlier, we’d need to provide the value so it can be manipulated:
+
+.sheet(isPresented: $showingAddUser) {
+    AddView(isPresented: $showingAddUser)
+}
+
+This allows both ContentView and AddView to share the same Boolean value – when it changes in one place it also changes in the other.
+
+import SwiftUI
+
+@main
+struct SampleApp: App {
+    @State private var showAlert = false // to asign value to binding without constant, this part is required
+
+    var body: some Scene {
+        
+
+        WindowGroup {
+            ContentView(vv:$showAlert)
+                
+        }
+        
+    }
+       
+}
+
+       
+}
+
+import SwiftUI
+
+
+struct AddView: View {
+    //just viewer of value from ancestor
+    @Binding var isPresented : Bool
+    @Environment(\.presentationMode) var presentationMode
+    
+    //this is for default value to set in binding variable
+    // But when you use .constant the value will never change
+    
+//    init(isPresented: Binding<Bool> = .constant(false)) {
+//            _isPresented = isPresented
+//        }
+   
+    
+    
+    var body: some View {
+        Button("Dismiss") {
+            isPresented = false
+            presentationMode.wrappedValue.dismiss()
+
+        }
+    }
+}
+
+struct AddView_Previews: PreviewProvider {
+    static var previews: some View {
+        AddView(isPresented: .constant(false))
+    }
+}
+
+
+struct ContentView: View {
+    
+    @Binding var showingAddUser : Bool
+    
+   
+    init(vv : Binding<Bool>) {
+        self._showingAddUser = vv
+    }
+    
+    var body: some View {
+        
+        Button {
+            print("hello")
+            showingAddUser = true
+        } label: {
+            Text("Show Add User")
+        }
+        
+        .sheet(isPresented: $showingAddUser, content: {
+            AddView(isPresented: $showingAddUser)
+        })
+    }
+}
+
+//struct ContentView_Previews: PreviewProvider {
+//   // @State private var x : Bool = false
+//    static var previews: some View {
+//        ContentView(vv: false)
+//    }
+//}
+
+
