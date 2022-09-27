@@ -124,4 +124,14 @@ struct ContentView: View {
 //    }
 //}
 
+You're correct that @Binding is a property wrapper. More specifically, it's a DynamicProperty, which means that it has the ability to notify its parent View to trigger a render when its value changes.
 
+@Binding does this while maintaining a fairly transparent interface to the underlying Bool. For example, in a View where you had @Binding var hidden: Bool defined as a property, you could write hidden = false or Text(hidden ? "hidden" : "visible"), just as if hidden were a regular Bool. If you want to get access to the underlying Binding<Bool>, you can use $:
+
+$hidden //<-- Binding<Bool>
+In your second example, Binding<Bool> is not "type casting", but rather "type annotation" -- by writing var hidden: Binding<Bool>, you're telling the compiler that hidden is Binding<Bool>. Because it's Binding<Bool> and not just a Bool (and not a @Binding), you can't treat it like you would if it were just a Bool. For example, hidden = false will not work with Binding<Bool>. Instead, to access the underlying Bool value, you can use its .wrappedValue property: hidden.wrappedValue = false.
+
+The two are are very similar, but different in a couple of important ways (like those detailed above). In practical terms:
+
+If you're using a binding as a property on a View, you'll likely end up using @Binding.
+If you're the binding it outside of a view (and thus don't have use of the DynamicProperty aspect), you'll likely use Binding<Bool> (technically, nothing is stopping you from using @Binding outside of a View, but it's a semantically odd decision).
