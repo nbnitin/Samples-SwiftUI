@@ -1,0 +1,32 @@
+import SwiftUI
+
+struct ContentView: View {
+    @State private var count : Int = 0
+    var body: some View {
+        Button {
+            print("hello")
+            count += 1
+        } label: {
+            Text("Count \(count)")
+        }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
+
+
+SwiftUI uses the @State property wrapper to allow us to modify values inside a struct, which would normally not be allowed because structs are value types.
+
+When we put @State before a property, we effectively move its storage out from our struct and into shared storage managed by SwiftUI. This means SwiftUI can destroy and recreate our struct whenever needed (and this can happen a lot!), without losing the state it was storing.
+
+@State should be used with simple struct types such as String, Int, and arrays, and generally shouldn’t be shared with other views. If you want to share values across views, you should probably use @ObservedObject or @EnvironmentObject instead – both of those will ensure that all views will be refreshed when the data changes.
+
+When that state changes, SwiftUI knows to automatically reload the view with the latest changes so it can reflect its new information.
+
+To re-enforce the local nature of @State properties, Apple recommends you mark them as private.
+
+@State is great for simple properties that belong to a specific view and never get used outside that view, so as a result it’s important to mark those properties as being private to re-enforce the idea that such state is specifically designed never to escape its view.
