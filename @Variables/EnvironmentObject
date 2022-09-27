@@ -1,0 +1,72 @@
+You’ve seen how @State declares simple properties for a type that automatically cause a refresh of the view when it changes, and how @ObservedObject declares a property for an external type that may or may not cause a refresh of the view when it changes. Both of these two must be set by your view, but @ObservedObject might be shared with other views.
+
+There’s another type of property wrapper available to use, which is @EnvironmentObject. This is a value that is made available to your views through the application itself – it’s shared data that every view can read if they want to. So, if your app had some important model data that all views needed to read, you could either hand it from view to view to view or just put it into the environment where every view has instant access to it.
+
+Think of @EnvironmentObject as a massive convenience for times when you need to pass lots of data around your app. Because all views point to the same model, if one view changes the model all views immediately update – there’s no risk of getting different parts of your app out of sync.
+
+import SwiftUI
+
+@main
+struct SampleApp: App {
+    @StateObject var test = Test(x: 1)
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .environmentObject(test)
+            //adding object to environment
+        }
+        
+    }
+       
+}
+import SwiftUI
+
+class Test : ObservableObject {
+    @Published var x : Int
+    
+    init(x: Int) {
+        self.x = x
+    }
+}
+
+struct ContentView2: View {
+    //just viewer of value from ancestor
+    @EnvironmentObject var test : Test
+    
+    var body: some View {
+        Text("Content View 2 and value is \(test.x)")
+    }
+}
+
+struct ContentView2_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView2()
+    }
+}
+
+
+struct ContentView: View {
+    
+    @EnvironmentObject var test : Test
+    @State private var isPresented : Bool = false
+    
+    var body: some View {
+        Button {
+            print("hello")
+            test.x += 1
+            isPresented = true
+        } label: {
+            Text("Count \(test.x)")
+        }
+        
+        .sheet(isPresented: $isPresented, content: {
+            ContentView2()
+        })
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
