@@ -70,3 +70,5 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+https://developer.apple.com/documentation/swiftui/environmentvalues
