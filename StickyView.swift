@@ -33,16 +33,15 @@ struct ContentView: View {
             }
         } symbols: {
             //we have to register shapes or views here, which will be later drawn in canvas.
-            //each view or shape will have tag id
+                        //each view or shape will have tag id
             Circle()
-                .fill(.blue)
-               
+                
+                
                 .frame(width: 40,height: 40,alignment: .center)
 
                 //.frame(width: 150, height: 150)
                 .tag(0)
             Circle()
-                //.stroke(.red, lineWidth: 20)
                 .frame(width: 40,height: 40,alignment: .center)
                 .offset(x: position.width,y: position.height)
                 .tag(1)
