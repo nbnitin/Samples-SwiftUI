@@ -24,6 +24,7 @@ struct ContentView: View {
             let secondCircle = context.resolveSymbol(id: 1)!
             
             context.addFilter(.alphaThreshold(min: 0.2))
+                //context.addFilter(.alphaThreshold(min: 0.2, color: .cyan)) to give color to circles
             context.addFilter(.blur(radius: 20))
             
             context.drawLayer{ context2 in
