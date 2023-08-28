@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B54BF0E8-9504-4A88-B092-7C639DF3633C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C48C6901-C428-4298-B9F8-1D8FA47D76C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drag&amp;DropImagePicker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C58C933E-AC6D-4401-B611-A2A3F28EE7BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drag&amp;DropImagePicker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "ImagePicker"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "C58C933E-AC6D-4401-B611-A2A3F28EE7BE - bd317c01cc432f99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "C58C933E-AC6D-4401-B611-A2A3F28EE7BE - 6d27476643d9ce79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADDA3387-E084-4EF9-A030-5B365B0B91B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drag&amp;DropImagePicker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "extractImage(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADDA3387-E084-4EF9-A030-5B365B0B91B2 - 6d27476643d9ce79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "ADDA3387-E084-4EF9-A030-5B365B0B91B2 - 9164dfb9da084d5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "ADDA3387-E084-4EF9-A030-5B365B0B91B2 - ea7762e92897554c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "ADDA3387-E084-4EF9-A030-5B365B0B91B2 - d0b48b0ab92d7f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8A95CD1-144E-46D9-ACC4-1C3AD7F1173E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drag&amp;DropImagePicker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "ImagePicker"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8798422A-BBAA-41D7-B78E-A31DB6402DDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drag&amp;DropImagePicker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "extractImage(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8798422A-BBAA-41D7-B78E-A31DB6402DDB - ea7762e9289755c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "8798422A-BBAA-41D7-B78E-A31DB6402DDB - 7688a107c3e111dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) await resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8798422A-BBAA-41D7-B78E-A31DB6402DDB - c321c5ab624619ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8798422A-BBAA-41D7-B78E-A31DB6402DDB - d0b48b0ab92d7fcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Drag_DropImagePicker.ImagePicker.extractImage(_PhotosUI_SwiftUI.PhotosPickerItem, __C.CGSize) -&gt; ()"
+                  moduleName = "Drag&amp;DropImagePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Drag&amp;DropImagePicker/Drag&amp;DropImagePicker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
