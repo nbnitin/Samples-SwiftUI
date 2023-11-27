@@ -21,3 +21,6 @@ https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/373e48e9-f7bd-4056-809
 
 https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/5690deb5-4691-4cc0-a8f1-ea7dab0edfea
 
+# Status bar style change
+![statusBarStyleChange](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/16a8c89b-a141-4d5c-b4c3-38a9cc9afa7b)
+
