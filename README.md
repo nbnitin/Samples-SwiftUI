@@ -24,3 +24,7 @@ https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/5690deb5-4691-4cc0-a8f
 # Status bar style change
 ![statusBarStyleChange](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/16a8c89b-a141-4d5c-b4c3-38a9cc9afa7b)
 command + shift + A -> to toggle appearance or theme in simulator(its in features menu of simulator)
+
+# DropDown View
+![Simulator Screen Recording - iPhone 15 Pro - 2023-12-04 at 10 41 15](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/e28bc538-b088-44b7-aab2-996904f891d8)
+
