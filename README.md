@@ -28,3 +28,7 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # DropDown View
 ![Simulator Screen Recording - iPhone 15 Pro - 2023-12-04 at 10 41 15](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/e28bc538-b088-44b7-aab2-996904f891d8)
 
+# Shine Effect
+![Simulator Screen Recording - iPhone 15 Pro - 2023-12-04 at 14 18 33](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/089a826e-aad5-496d-9fd4-8d4bcee0452a)
+
+
