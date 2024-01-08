@@ -32,3 +32,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 ![Simulator Screen Recording - iPhone 15 Pro - 2023-12-04 at 14 18 33](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/089a826e-aad5-496d-9fd4-8d4bcee0452a)
 
 
+# Table View
+<img width="318" alt="Screenshot 2024-01-08 at 10 58 57 AM" src="https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/9e2529ff-d1f3-4b97-897f-f31766650544">
+
+
+
