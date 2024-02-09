@@ -1,0 +1,20 @@
+Do you know SwiftUI has Automatic Grammar Agreement you can implement it using ^....(inflect: true). I read somewhere it supports 6 languages but which are those 6 are unknown.
+import SwiftUI
+
+struct ContentView: View {
+    @State private var count = 1
+    var body: some View {
+        VStack {
+            Button("Add"){count += 1}
+            Button("Remove"){count -= 1}
+            Text("^[\(count) Person](inflect: true)")
+                .padding()
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
+
