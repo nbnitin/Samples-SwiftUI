@@ -36,4 +36,10 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 <img width="318" alt="Screenshot 2024-01-08 at 10 58 57 AM" src="https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/9e2529ff-d1f3-4b97-897f-f31766650544">
 
 
+# Automatic Grammar Agreement
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-06 at 14 39 47](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/3e8ba858-1a40-4069-8ba5-cdc51f0deadf)
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-06 at 14 40 15](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/139bf3c9-c938-4263-a064-3beede177261)
+
+
+
 
