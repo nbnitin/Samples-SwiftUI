@@ -43,6 +43,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Stacked Card Animation
 ![Simulator Screen Recording - iPhone 15 Pro - 2024-03-08 at 10 47 13](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/6138c503-a3b5-411f-afc1-6cc415c053a2)
 
+# Content Transition
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-09 at 14 54 18](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/19949739-e391-4d99-be06-eb0e1641adf9)
 
 
 
