@@ -49,6 +49,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Tinder Like
 ![Simulator Screen Recording - iPhone 15 Pro - 2024-03-08 at 12 58 40](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/e8e34eb9-1a28-401a-bde8-f3a8836c4a6f)
 
+# FlipBook Animation
+![Simulator Screen Recording - iPhone 15 - 2024-04-16 at 12 03 44](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/02afc8f7-75a4-42e0-9921-71d840c94cdd)
 
 
 
