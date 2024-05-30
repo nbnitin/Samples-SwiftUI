@@ -52,6 +52,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # FlipBook Animation
 ![Simulator Screen Recording - iPhone 15 - 2024-04-16 at 12 03 44](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/02afc8f7-75a4-42e0-9921-71d840c94cdd)
 
+# Clock Flip Animation
+![Simulator Screen Recording - iPhone 15 Pro - 2024-05-30 at 17 08 30](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/f705b36c-1795-4d58-bd72-146057767871)
 
 
 
