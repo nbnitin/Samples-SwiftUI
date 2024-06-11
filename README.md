@@ -55,5 +55,7 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Clock Flip Animation
 ![Simulator Screen Recording - iPhone 15 Pro - 2024-05-30 at 17 08 30](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/f705b36c-1795-4d58-bd72-146057767871)
 
+# Glitch Text Effect
+![Simulator Screen Recording - iPhone 15 Pro - 2024-06-11 at 12 12 34](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/36463fc0-25a6-42ec-8b48-4fc43a2c4497)
 
 
