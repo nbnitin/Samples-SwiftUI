@@ -58,4 +58,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Glitch Text Effect
 ![Simulator Screen Recording - iPhone 15 Pro - 2024-06-11 at 12 12 34](https://github.com/nbnitin/Samples-SwiftUI/assets/5785670/36463fc0-25a6-42ec-8b48-4fc43a2c4497)
 
+# Inverted scroll view for chat
+![Simulator Screen Recording - iPhone 15 Pro - 2024-07-14 at 12 30 16](https://github.com/user-attachments/assets/0dee33c6-6ccb-4197-8f2d-cae6319adeae)
+
+
 
