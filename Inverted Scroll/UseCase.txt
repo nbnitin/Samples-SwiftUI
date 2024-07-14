@@ -1,0 +1,2 @@
+In a chat app, we need to show recent message at the bottom of the screen and older message at the top. But in scroll views we know that as you keep appending new data into an array it will show at bottom of the scrollview. There may be some logics like sorting by date/time or may be something else.
+But here I have new solution like to flip your view.
