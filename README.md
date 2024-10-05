@@ -61,5 +61,9 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Inverted scroll view for chat
 ![Simulator Screen Recording - iPhone 15 Pro - 2024-07-14 at 12 30 16](https://github.com/user-attachments/assets/0dee33c6-6ccb-4197-8f2d-cae6319adeae)
 
+# Draggable List
+![Simulator Screen Recording - iPhone 16 Pro - 2024-10-05 at 13 38 32](https://github.com/user-attachments/assets/628960d1-ec2b-43d3-8f10-2211e0a0e550)
+
+
 
 
