@@ -64,6 +64,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Draggable List
 ![Simulator Screen Recording - iPhone 16 Pro - 2024-10-05 at 13 38 32](https://github.com/user-attachments/assets/628960d1-ec2b-43d3-8f10-2211e0a0e550)
 
+# Text Timer
+![Screen Recording 2024-11-22 at 1 17 53 PM](https://github.com/user-attachments/assets/e47816f7-5d14-4f0d-ac70-499cea9c0c8a)
 
 
 
