@@ -67,5 +67,9 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Text Timer
 ![Screen Recording 2024-11-22 at 1 17 53 PM](https://github.com/user-attachments/assets/e47816f7-5d14-4f0d-ac70-499cea9c0c8a)
 
+# Blur Text
+<img width="973" alt="Screenshot 2024-11-25 at 3 17 43 PM" src="https://github.com/user-attachments/assets/2f2dd95c-173e-4374-baaa-7fe04462c018">
+
+
 
 
