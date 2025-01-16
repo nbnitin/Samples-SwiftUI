@@ -70,6 +70,8 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Blur Text
 <img width="973" alt="Screenshot 2024-11-25 at 3 17 43 PM" src="https://github.com/user-attachments/assets/2f2dd95c-173e-4374-baaa-7fe04462c018">
 
+# Byte Count Formatter
+![Screenshot 2025-01-14 at 1 38 43 PM](https://github.com/user-attachments/assets/507ed921-7cd0-4399-961b-f4ebdd002484)
 
 
 
