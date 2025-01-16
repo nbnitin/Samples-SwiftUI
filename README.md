@@ -73,5 +73,9 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Byte Count Formatter
 ![Screenshot 2025-01-14 at 1 38 43 PM](https://github.com/user-attachments/assets/507ed921-7cd0-4399-961b-f4ebdd002484)
 
+# Magnify Gesture
+https://github.com/user-attachments/assets/81e33959-323e-430a-a074-a543a5135a02
+
+
 
 
