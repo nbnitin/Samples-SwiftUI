@@ -76,6 +76,9 @@ command + shift + A -> to toggle appearance or theme in simulator(its in feature
 # Magnify Gesture
 https://github.com/user-attachments/assets/81e33959-323e-430a-a074-a543a5135a02
 
+# Async Image
+![Screenshot 2025-01-31 at 7 23 15 PM](https://github.com/user-attachments/assets/65a0da01-b85a-4ae8-8eea-113e9b5bc83e)
+![ScreenRecording2025-01-31at7 08 52PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2c0999ba-53f9-4d90-8e74-b852ead37cfe)
 
 
 
