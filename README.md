@@ -85,5 +85,9 @@ https://github.com/user-attachments/assets/81e33959-323e-430a-a074-a543a5135a02
 
 https://github.com/user-attachments/assets/3ec85f93-4f0c-4d2e-b4f8-97ed49f9749d
 
+# Doinant Image Color
+![Simulator Screen Recording - iPhone 16 Pro - 2025-03-10 at 15 02 28](https://github.com/user-attachments/assets/1596a79c-f13d-408b-a23d-0ac89a35f128)
+
+
 
 
