@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/81e33959-323e-430a-a074-a543a5135a02
 
 https://github.com/user-attachments/assets/3ec85f93-4f0c-4d2e-b4f8-97ed49f9749d
 
-# Doinant Image Color
+# Dominant Image Color
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-03-10 at 15 13 45](https://github.com/user-attachments/assets/1ec9c5a7-c391-439e-bd22-cf72a4c20191)
 
 # Custom Button With Spinner
