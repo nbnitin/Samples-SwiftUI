@@ -94,6 +94,11 @@ https://github.com/user-attachments/assets/3ec85f93-4f0c-4d2e-b4f8-97ed49f9749d
 # Dynamic Floating Sheet Like Family App
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-04-02 at 14 30 29](https://github.com/user-attachments/assets/4d3c4a9d-dafe-4dd1-b1b8-98b9ce538e5b)
 
+# Network Monitoring
+![Simulator Screen Recording - iPhone 16 Pro - 2025-04-21 at 11 30 49](https://github.com/user-attachments/assets/98eb9ac9-97af-4a1f-af6d-ea37314fbdc9)
+
+# Redacted/Inbuild Skeleton
+https://github.com/user-attachments/assets/bd3de3ba-5536-4f6b-9ef2-10411769fd93
 
 
 
