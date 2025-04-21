@@ -1,5 +1,5 @@
 //
-//  SekletonModifier.swift
+//  SkeletonModifier.swift
 //  NewPlaceholderRedacted
 //
 //  Created by Nitin Bhatia on 20/04/25.
