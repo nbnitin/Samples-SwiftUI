@@ -1,5 +1,5 @@
 //
-//  PickerView.swift
+//  ContentView.swift
 //  Samples
 //
 //  Created by Nitin Bhatia on 01/05/25.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct PickerView: View {
+struct ContentView: View {
     @State private var selectedFruit = "Apple"
     @State private var showPicker = false
 
@@ -81,5 +81,5 @@ struct PickerSheetView: View {
 }
 
 #Preview {
-    PickerView()
+    ContentView()
 }
