@@ -103,4 +103,6 @@ https://github.com/user-attachments/assets/bd3de3ba-5536-4f6b-9ef2-10411769fd93
 # Picker View On TextField
 ![Screen Recording 2025-05-01 at 9 20 44 AM](https://github.com/user-attachments/assets/94a4f383-0517-4d64-8120-5de230d13d3c)
 
+# Task Management With SwiftData
+![Simulator Screen Recording - iPhone 16 Pro - 2025-05-08 at 11 22 18](https://github.com/user-attachments/assets/f9b91cd4-b397-4a67-a209-45cc50d9d88c)
 
