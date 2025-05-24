@@ -106,3 +106,8 @@ https://github.com/user-attachments/assets/bd3de3ba-5536-4f6b-9ef2-10411769fd93
 # Task Management With SwiftData
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-05-08 at 11 22 18](https://github.com/user-attachments/assets/f9b91cd4-b397-4a67-a209-45cc50d9d88c)
 
+# Accordion Style
+https://github.com/user-attachments/assets/740bfde9-7769-4779-a850-105d948e55b4
+
+
+
