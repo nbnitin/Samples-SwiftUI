@@ -35,6 +35,7 @@ struct MultiDisclosureGroupView: View {
                                 .font(.headline)
                         }
                     )
+                    //to change the icon color .accentColor(.red)
                     .padding()
                     .listRowSeparator(.hidden)
                     
