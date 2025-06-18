@@ -112,5 +112,7 @@ https://github.com/user-attachments/assets/740bfde9-7769-4779-a850-105d948e55b4
 # 6 Useful Modifiers
 https://github.com/user-attachments/assets/0fe88bbb-8563-4e44-9d36-c7220f087159
 
+# Generic/NonGeneric View using ViewBuild
+<img width="928" alt="Screenshot 2025-06-18 at 12 20 33 PM" src="https://github.com/user-attachments/assets/d87424fa-1e0c-462f-9979-c556daa7507b" />
 
 
