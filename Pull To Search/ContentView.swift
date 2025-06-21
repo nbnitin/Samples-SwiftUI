@@ -95,6 +95,7 @@ struct ContentView: View {
             .overlay(alignment: .trailing) {
                 Button("Cancel"){
                     isExpanded = false
+                    searchText = ""
                 }
                 .fixedSize()
                 .opacity(isExpanded ? 1: 0)
