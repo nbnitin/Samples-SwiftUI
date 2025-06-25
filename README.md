@@ -118,4 +118,6 @@ https://github.com/user-attachments/assets/0fe88bbb-8563-4e44-9d36-c7220f087159
 # Pull To Search
 https://github.com/user-attachments/assets/3ceaaccf-614f-484e-b1e1-58e5c533f67a
 
+# Custom Tab Bar With Animation Like MS Outlook
+![Simulator Screen Recording - iPhone 16 Pro - 2025-06-25 at 12 57 08](https://github.com/user-attachments/assets/362f2010-5dfb-4d34-be0c-636222cf3235)
 
