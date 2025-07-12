@@ -25,7 +25,7 @@ struct SectionListForTabView: View {
                         }
                         
                     } header: {
-                        Text("Section Header \(index)")
+                        Text("Section Header \(index + 1)")
                             .font(.headline)
                             .padding([.leading, .bottom, .top], 20)
                             .frame(maxWidth:.infinity, alignment: .leading)
