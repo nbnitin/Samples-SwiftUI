@@ -121,3 +121,7 @@ https://github.com/user-attachments/assets/3ceaaccf-614f-484e-b1e1-58e5c533f67a
 # Custom Tab Bar With Animation Like MS Outlook
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-06-25 at 12 57 08](https://github.com/user-attachments/assets/362f2010-5dfb-4d34-be0c-636222cf3235)
 
+# Auto Scrolling To Section Of List
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-12 at 21 46 02](https://github.com/user-attachments/assets/904698a4-ff46-419c-9734-7b1009d89b2c)
+
+
