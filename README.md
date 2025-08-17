@@ -124,4 +124,5 @@ https://github.com/user-attachments/assets/3ceaaccf-614f-484e-b1e1-58e5c533f67a
 # Auto Scrolling To Section Of List
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-07-12 at 21 46 02](https://github.com/user-attachments/assets/904698a4-ff46-419c-9734-7b1009d89b2c)
 
-
+# Rating Stars
+![Simulator Screen Recording - iPhone 16 - 2025-08-17 at 14 19 10](https://github.com/user-attachments/assets/e8a7cee3-6bbf-4fdd-b220-35c96f3d7a16)
