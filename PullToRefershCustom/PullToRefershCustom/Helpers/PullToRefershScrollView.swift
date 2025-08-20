@@ -129,7 +129,7 @@ struct PullToRefershScrollView<Content: View>: View {
                 .opacity(delayedProgress)
         }
         .padding(.horizontal, 20)
-        opacity(scaleEffect ? 0 : 1)
+        .opacity(scaleEffect ? 0 : 1)
     }
     
     ///Action Button
