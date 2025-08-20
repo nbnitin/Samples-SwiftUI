@@ -126,3 +126,8 @@ https://github.com/user-attachments/assets/3ceaaccf-614f-484e-b1e1-58e5c533f67a
 
 # Rating Stars
 ![Simulator Screen Recording - iPhone 16 - 2025-08-17 at 14 19 10](https://github.com/user-attachments/assets/e8a7cee3-6bbf-4fdd-b220-35c96f3d7a16)
+
+# Custom Pull To Refresh Like Google Chrome
+https://github.com/user-attachments/assets/18f00539-1ce0-4bf8-931c-efc7af5cad00
+
+
