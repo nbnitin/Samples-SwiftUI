@@ -130,4 +130,6 @@ https://github.com/user-attachments/assets/3ceaaccf-614f-484e-b1e1-58e5c533f67a
 # Custom Pull To Refresh Like Google Chrome
 https://github.com/user-attachments/assets/18f00539-1ce0-4bf8-931c-efc7af5cad00
 
+# Zoom Transition
+![Uploading Simulator Screen Recording - iPhone 17 Pro - 2025-09-27 at 16.34.37.gif…]()
 
