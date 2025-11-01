@@ -136,4 +136,6 @@ https://github.com/user-attachments/assets/18f00539-1ce0-4bf8-931c-efc7af5cad00
 # Navigation Title Menu
 ![Simulator Screen Recording - iPhone 17 Pro - 2025-10-03 at 16 08 00](https://github.com/user-attachments/assets/950e753d-2017-4f99-ac51-2ee58d43445d)
 
+# Slide To Compare
+https://github.com/user-attachments/assets/0795c527-ef14-4698-b190-0ad1c407c4a0
 
