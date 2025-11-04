@@ -140,8 +140,10 @@ https://github.com/user-attachments/assets/18f00539-1ce0-4bf8-931c-efc7af5cad00
 https://github.com/user-attachments/assets/0795c527-ef14-4698-b190-0ad1c407c4a0
 
 # Update Checker
+  * using https://undraw.co/search -> app installation
 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-04 at 10 40 29" src="https://github.com/user-attachments/assets/6cf40ba4-e768-4f55-b406-5fe1c9a81c31" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-04 at 10 47 11" src="https://github.com/user-attachments/assets/10a672ab-fa49-43a7-b94f-4087181c593b" />
 
 
 https://github.com/user-attachments/assets/ce269128-2a30-4092-9e2d-878fb5247989
