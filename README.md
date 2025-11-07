@@ -148,4 +148,7 @@ https://github.com/user-attachments/assets/0795c527-ef14-4698-b190-0ad1c407c4a0
 
 https://github.com/user-attachments/assets/ce269128-2a30-4092-9e2d-878fb5247989
 
+# Zoom Transition 2
+https://github.com/user-attachments/assets/b34d7d90-4ea9-4c95-94cd-49e6f08f91ac
 
+![Simulator Screen Recording - iPhone 17 Pro - 2025-11-07 at 09 58 47](https://github.com/user-attachments/assets/db23e815-d81d-4a1a-b295-7ed9ca6808ce)
