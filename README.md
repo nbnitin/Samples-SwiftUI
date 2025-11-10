@@ -152,3 +152,10 @@ https://github.com/user-attachments/assets/ce269128-2a30-4092-9e2d-878fb5247989
 https://github.com/user-attachments/assets/b34d7d90-4ea9-4c95-94cd-49e6f08f91ac
 
 ![Simulator Screen Recording - iPhone 17 Pro - 2025-11-07 at 09 58 47](https://github.com/user-attachments/assets/db23e815-d81d-4a1a-b295-7ed9ca6808ce)
+
+# Different Color Animation
+
+
+https://github.com/user-attachments/assets/fcca51d6-d77e-4a7d-b2c9-474e28688491
+
+
