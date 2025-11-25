@@ -159,6 +159,8 @@ https://github.com/user-attachments/assets/fcca51d6-d77e-4a7d-b2c9-474e28688491
 # Video Scroller
 https://github.com/user-attachments/assets/3ce85288-b61a-4cd7-a643-dada6631ed02
 
+# App Information
+![Simulator Screen Recording - iPhone 17 Pro - 2025-11-25 at 09 47 56](https://github.com/user-attachments/assets/74827f99-bae1-4d8b-9604-0cd15ca4e48e)
 
 
 
