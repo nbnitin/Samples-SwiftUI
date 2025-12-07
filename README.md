@@ -162,5 +162,6 @@ https://github.com/user-attachments/assets/3ce85288-b61a-4cd7-a643-dada6631ed02
 # App Information
 ![Simulator Screen Recording - iPhone 17 Pro - 2025-11-25 at 09 47 56](https://github.com/user-attachments/assets/74827f99-bae1-4d8b-9604-0cd15ca4e48e)
 
-
+# Tabbar Glass UI/ Tabbar Accessory
+![Simulator Screen Recording - iPhone 17 Pro - 2025-12-07 at 17 00 35](https://github.com/user-attachments/assets/399914b3-745f-44b8-8de8-482a079ed6ef)
 
