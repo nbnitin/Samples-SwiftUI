@@ -174,5 +174,11 @@ https://github.com/user-attachments/assets/f26eac7f-b0f3-49ae-9a43-2ceb13216afe
 # Custom Picker
 https://github.com/user-attachments/assets/2d19bd54-fe2c-4618-82a3-e59afe8beda2
 
+# Slider Ticks, Birghtness Controller
+
+
+https://github.com/user-attachments/assets/1c3e35e7-8fd6-4a68-8401-352c16871c68
+
+
 
 
