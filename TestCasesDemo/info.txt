@@ -1,0 +1,12 @@
+You can change the testing plan. if you want not to run parallel test cases.
+
+To stop Xcode/XCUITest from cloning simulators, you can disable the "Execute in parallel (if possible)" option in your test scheme settings. 
+
+Steps within Xcode
+Edit Scheme: In Xcode, go to the menu bar and select Product > Scheme > Edit Scheme.
+Select Test Action: In the left sidebar of the scheme editor, select the Test action.
+Open Options: Go to the Options tab (or the Test Plans section if you are using them).
+Disable Parallel Execution: Uncheck the box labeled "Execute in parallel (if possible)".
+Confirm: Click Close or OK to save the changes. 
+
+Disabling this setting tells Xcode to run tests sequentially on a single simulator instance, preventing it from launching new clones for parallel execution. 
