@@ -185,6 +185,12 @@ https://github.com/user-attachments/assets/5573736a-b598-4c8c-ba39-891fe42192b2
 # A-Z Strip 
 https://github.com/user-attachments/assets/264e1a47-c3ab-4da5-b05d-919568e49301
 
+# Celebration Emitter
+https://github.com/user-attachments/assets/85e36f15-a851-469f-b80e-af45eb49f4f6
+
+
+
+
 
 
 
