@@ -191,6 +191,11 @@ https://github.com/user-attachments/assets/85e36f15-a851-469f-b80e-af45eb49f4f6
 # Reaction Picker With Particle Effect
 https://github.com/user-attachments/assets/805fe600-b884-4012-b488-db6b28dc7c36
 
+# Animated Theme Switcher
+https://github.com/user-attachments/assets/0fd0ce6e-6f5b-4e78-b8a7-8577e3394678
+
+
+
 
 
 
